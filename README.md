@@ -1,0 +1,4 @@
+# Javascripte
+
+Javascript, en français
+
