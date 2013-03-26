@@ -1,4 +1,5 @@
 # Javascripte
 
-Javascript, en français
+Javascript, en français.
 
+Written using sweet.js macros. Super!
